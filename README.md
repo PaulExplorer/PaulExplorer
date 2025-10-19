@@ -1,4 +1,4 @@
-# Hi, I'm PLLX76 👋
+# Hi, I'm PaulExplorer 👋
 
 ### Self-taught developer & high school student in France
 
@@ -15,18 +15,18 @@ I started programming at age 12 during the COVID-19 lockdown, driven by curiosit
   Discovered Java and created my first game — a Star Wars-themed spaceship dodging meteors, all from scratch.
 
 - **14 years old:**  
-  Learned C++ and built my first large project: [CubeGame2D](https://github.com/PLLX76/CubeGame2D), a parkour-style escape game.  
+  Learned C++ and built my first large project: [CubeGame2D](https://github.com/PaulExplorer/CubeGame2D), a parkour-style escape game.  
   Also wrote many Discord bots in Python.
 
 - **15 years old:**  
   Continued with C++, experimented with Flutter, and built a C# music app. Developed several websites with Python backends.
 
 - **16 years old:**  
-  Released [OeuvresTrack](https://github.com/PLLX76/OeuvresTrack), a web app to track movies, series, and books, get notifications for new releases, and more.
+  Released [OeuvresTrack](https://github.com/PaulExplorer/OeuvresTrack), a web app to track movies, series, and books, get notifications for new releases, and more.
 
 - **17 years old:**  
   Picked up Rust and enjoyed building games with Bevy and SDL2.  
-  Created [FamilyNest](https://github.com/PLLX76/FamilyNest), a collaborative genealogy application in Rust with powerful cloud features and advanced rendering.  
+  Created [FamilyNest](https://github.com/PaulExplorer/FamilyNest), a collaborative genealogy application in Rust with powerful cloud features and advanced rendering.  
   Contributed to my first open-source project: [my-internet](https://github.com/sameerasw/my-internet).  
   Currently developing a new genealogy web app using Rust & WASM, focusing on better rendering, accessibility, and multi-user collaboration.
 
@@ -41,16 +41,15 @@ I started programming at age 12 during the COVID-19 lockdown, driven by curiosit
 
 ## 🌟 Featured Projects
 
-- [OeuvresTrack](https://github.com/PLLX76/OeuvresTrack): Track progress of movies, series, and books with notifications and more.
-- [FamilyNest](https://github.com/PLLX76/FamilyNest): Collaborative cloud-based genealogy software in Rust.
-- [CubeGame2D](https://github.com/PLLX76/CubeGame2D): Parkour escape game written in C++.
-- [my-internet](https://github.com/sameerasw/my-internet): Contributor to an open-source project.
+- [OeuvresTrack](https://github.com/PaulExplorer/OeuvresTrack): Track progress of movies, series, and books with notifications and more.
+- [FamilyNest](https://github.com/PaulExplorer/FamilyNest): Collaborative cloud-based genealogy software in Rust.
+- [CubeGame2D](https://github.com/PaulExplorer/CubeGame2D): Parkour escape game written in C++.
 
 ---
 
 ## 📚 About Me
 
-- No professional experience or degrees — entirely self-taught.
+- No professional experience or degrees, entirely self-taught.
 - Passionate about learning new technologies and building useful tools.
 - Always looking to experiment, collaborate, and contribute to open source.
 
